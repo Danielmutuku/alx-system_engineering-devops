@@ -1,0 +1,1 @@
+"On this projects i will be mainly focusing on software developments '
