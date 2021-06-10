@@ -1,2 +1,2 @@
 #!/bin/bash
-mkdir 664 dir-holberton
+mkdir -m 664 dir-holberton
