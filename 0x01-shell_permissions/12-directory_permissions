@@ -1,2 +1,2 @@
 #!/bin/bash
-mkdir -m 754 /dir-holberton
+mkdir -m 755 dir-holberton
